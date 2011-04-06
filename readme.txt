@@ -8,6 +8,8 @@ Stable tag: trunk
 
 An animated featured posts box plugin. 
 
+Requires Thesis Theme
+
 == Description ==
 
 An animated featured posts box plugin.  Creates a "Featured" category if it does not exist and displays the featured posts in a box with
