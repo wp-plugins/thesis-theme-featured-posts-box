@@ -15,6 +15,8 @@ An animated featured posts box plugin.  Creates a "Featured" category if it does
 an animated effect.  Animation speed are fully adjustable on the admin panel, borders, font colors, background colors are also all controlled
 from the admin panel.
 
+Live Demo:
+http://www.joshroa.com
 
 
 == Installation ==
