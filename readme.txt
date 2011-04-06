@@ -25,7 +25,8 @@ http://www.joshroa.com
 3. Configure the plugin under "Settings/RR Featured Box"
 
 == Frequently Asked Questions ==
-
+= Can I edit the animation and ui settings in the admin? =
+Yes
 
 
 == Screenshots ==
@@ -37,10 +38,14 @@ http://joshroa.com/screen.jpg
 = 1.0 =
 
 
+== Upgrade Notice ==
+= 1.0 =
 
 
 Roarender Featured Posts Box Plugin
-RoaRender Digital Design Firm
+RoaRender Digital Design Firm
+
 www.roarender.com 2011
-josh@roarender.com
+josh@roarender.com
+
 rainier@roarender.com
