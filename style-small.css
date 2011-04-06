@@ -1,0 +1,100 @@
+/* 
+Author: RoaRender Digital Design Firm
+URI: www.roarender.com
+*/
+    
+    /* featured box new */
+#featured-box {width:713px; height:auto; /*background:url(img/fb-mid.jpg) repeat-y;*/ overflow:visible; margin:20px auto;}
+#featured-box p {font:14px Arial,Helvetica,sans-serif; font-size:14px; width:240px; }
+
+#fb-wrapper {float:left; border:solid 1px #E6E6E6; padding:15px 0 0 0; margin:0 0 8px 0; }
+
+#fb-top {width:713px; height:56px; background:url(img/fbl-top.jpg) no-repeat; margin:0 0 0 1px;}      
+    #fbt-img {position:relative; left:-18px; width:95px; height:38px; background:url(img/featured.png) no-repeat; position:relative; top:13px; z-index:500; }
+    
+#fb-inner {float:left; width:713px; padding-left:20px; }
+    #featured-box .container {position:relative; float:left; /*height:390px !important;*/ width:372px; overflow:hidden;}
+    #loopedslider {position:relative; width:auto; margin:-33px 0 0 0; }
+    .feature {width:580px; font-family: Arial, Helvetica, sans-serif; color:#323232; }
+        .fea-top {float:left; width:auto; height:370px; margin:0 0 0 3px;} 
+        .fea-top2 {float:left; width:auto; height:310px; } 
+        .fea-bot {clear:both; width:auto; height:37px;} 
+        .fea-bot a, .fea-bot2 a {color:#777777;}
+        .fea-bot2 {float:none; width:560px; height:37px; }
+            .fea-bot-left {float:left; width:auto; height:14px; background:url(img/fea-cat.png) left no-repeat; padding:0 0 0 17px; margin:0 0 0 3px; color:#777777;}
+                .fea-bot-left li {float:left; list-style:none; margin:0 5px 0 0;} 
+            .fea-bot-right {float:left; width:auto; height:auto; background:url(img/fea-tag.png) left no-repeat; padding:0 0 0 17px; margin:0 0 0 3px; color:#777777;} 
+            .cat-img {margin:0px 0 0 0;}
+            
+#fb-left {float:left; width:630px; height:auto;}                                                  
+    
+        #fblt-featured{width:95px; height:35px; background:url(img/featured.png) no-repeat; position:relative; top:15px; z-index:500;}
+    #fbl-mid {width:630px; height:auto; min-height:250px; background:url(img/fbl-mid.jpg) repeat-y;}   
+    .fblm-inner {width:566px; margin:0 auto;} 
+    
+    
+#fb-right {float:left; width:282px; height:auto;}                  
+    #fbr-top {width:283px; height:12px; background:url(img/fbr-top.jpg) no-repeat;}
+    #fbr-mid {width:283px; height:auto; min-height:300px; background:url(img/fbr-mid.jpg) repeat-y;}
+    .fbrm-inner {float:left; padding:14px 10px;}                           
+    .fbrm-thumb {float:left; width:49px; height:49px; border:solid 1px #d4d4d4;}
+    .fbrm-thumb img {width:49px; height:49px; }
+    
+    .fbrm-text h3 a {color:#8a8a8a; font-weight:bold;}
+
+#fb-nav {float:right; width:280px; margin:-20px 0 30px 0; }
+#fb-nav .pagination {overflow:hidden; position:relative; z-index:5;}
+#fb-nav a {display:block; width:280px; height:99px;}
+    .pagination li {list-style:none; width:280px; height:98px; background:url(img/fbr-entry.jpg) repeat-x; border-bottom:1px solid #F6F6F6;}
+    .pagination li.active a {background:url(img/fbr-mid-active.jpg) repeat-x;}
+    .pagination li a:hover {background:url(img/fbr-mid-active.jpg) repeat-x; text-decoration:none;}                                          
+    .pagination a img {width:48px; height:48px; margin:13px 5px 0px 10px; border:solid 1px #999; }        
+.fbrm-title {font-size:14px; font-weight:bold;  margin:13px 0 0 0;}
+.fbrm-text {font-size:12px; float:left; width:200px; margin:0 0 0 5px; color:#929292; cursor:pointer; max-height:90px; overflow:hidden;} 
+
+#fb-bot {float:left; width:100%; height:54px; background:#E6E6E6; margin:-45px 0 0 0;}
+    #fbb-content {float:right; width:auto; height:auto; margin:35px 10px 0 0; }
+
+#fb-wrapper .post-thumb {float:left; width:100px; height:100px; border:solid 1px #cfcfcf; margin:0 15px 0 2px; padding:3px; overflow:hidden; text-align:center;}
+    #fb-wrapper .post-thumb img {clear:left; float:none; width:100px !important; height:100px !important;}
+
+#fb-wrapper .post-content {float:left; width:302px; }
+    
+#fb-wrapper .post-title {max-height:95px; overflow:hidden; width:245px; }
+    #fb-wrapper .post-title a {font-size:26px; color:#070707;}
+                                                                                  
+    #fb-wrapper #feature p {font-size:14px;}
+    #fb-wrapper .post-listing {float:left; position:relative; z-index:1; margin:0 0 0 0; font-family: Arial, Helvetica, sans-serif; color:#323232; font-size:14px;}
+
+
+    
+#fb-wrapper .post-entry {float:left; width:612px; height:362px; border-left:solid 1px #d0d0d0; border-right:solid 1px #d0d0d0; background:url(img/post-list.jpg) repeat-x; margin:0 0 20px 18px; overflow:hidden;}
+#fb-wrapper .pe-inner {padding:26px;}
+#fb-wrapper .pe-right {float:left; width:332px; height:290px; overflow:hidden;}
+
+
+
+#rr-fb-footer-link {clear:both; width:185px; height:15px; font-size:12px; margin:0 auto; }
+
+        
+        /*
+         * Required 
+        */
+        .container {
+            width:600px;
+            height:250px;
+            overflow:hidden;
+            position:relative;
+        }
+        .slides {
+            position:absolute;
+            top:0;
+            left:0;
+        }
+        .slides > div {
+            position:absolute;
+            top:0;
+            width:570px;
+            padding:0px;
+            display:none;
+        }
