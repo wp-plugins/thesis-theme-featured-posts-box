@@ -4,10 +4,9 @@ Donate link:
 Tags: roarender, web application, web development, featured box, featured posts
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 
+Stable tag: trunk
 
-An animated featured posts box plugin.  Creates a "Featured" category if it does not exist and displays the featured posts in a box with
-an animated effect.  
+An animated featured posts box plugin. 
 
 == Description ==
 
@@ -30,7 +29,7 @@ http://www.joshroa.com
 
 
 == Screenshots ==
-
+http://joshroa.com/screen.jpg
 
 
 == Changelog ==
