@@ -4,7 +4,7 @@ Donate link:
 Tags: roarender, web application, web development, featured box, featured posts
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: trunk
+Stable tag: 1.0.1
 
 An animated featured posts box plugin. 
 
